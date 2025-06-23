@@ -1,8 +1,8 @@
 # fengshui-marketing-natorg
-Brand visuals, social content, and promotional assets for NATORG FENGSHUI and the Greta Foster campaign. A centralized vault for graphics, captions, and marketing materials.
+Brand visuals, social content, and promotional assets for NATORG FENGSHUI and the Gold Harlow campaign. A centralized vault for graphics, captions, and marketing materials.
 # NATORG Media Kit
 
-Welcome to the official media repository for **NATORG Feng Shui**, including assets from our **Greta Foster campaign** and other brand-aligned content.
+Welcome to the official media repository for **NATORG Feng Shui**, including assets from our **Gold Harlow campaign** and other brand-aligned content.
 
 This repository contains a curated collection of brand materials for use in:
 - Social media marketing
